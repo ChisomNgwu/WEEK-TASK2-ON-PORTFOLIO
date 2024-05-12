@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+
+
+
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    scrollbar-width: 0;
+    font-family: 'Space+Monore' Arial, serif;
+    text-decoration: none;
+    outline: none;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    list-style: none;
+}
+
+
+h5{
+    padding: 5px;
+}
+
+
